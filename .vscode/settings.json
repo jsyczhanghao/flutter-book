@@ -1,0 +1,12 @@
+{
+    "sqltools.useNodeRuntime": true,
+    "sqltools.connections": [
+        {
+            "database": "/Users/zhanghao/Library/Developer/CoreSimulator/Devices/C0D43472-6C8A-43BA-92BD-D3120E72D92B/data/Containers/Data/Application/294BD82D-E162-4B13-B8D3-D8C8BB9BEA0E/Documents/_.db",
+            "dialect": "SQLite",
+            "isActive": true,
+            "isConnected": true,
+            "name": "1111"
+        }
+    ]
+}
